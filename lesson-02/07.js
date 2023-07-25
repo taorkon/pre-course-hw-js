@@ -1,4 +1,4 @@
-//comment
+//console.log('test')
 let passportMarried = {
     name: "Petr",
     surname: "Petrov",
