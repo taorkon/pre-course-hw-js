@@ -9,5 +9,5 @@ let copyPass = {
 
 copyPass.name = "Ivan";
 
-console.log(passport);
-console.log(copyPass);
+console.log(passport.name);
+console.log(copyPass.name);
